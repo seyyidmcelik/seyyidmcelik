@@ -4,8 +4,17 @@
 - 📫 How to reach me ...
    - @seyyidmcelik@gmail.com
  
- ![Nodejs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/250px-Node.js_logo.svg.png)
- ![Nodejs](https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png)
+ ![Nodejs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/130px-Node.js_logo.svg.png)
+ ![React JS](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/100px-React.svg.png)
+ ![JavaScrit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/100px-Unofficial_JavaScript_logo_2.svg.png)
+ ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png)
+ ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/71px-CSS3_logo_and_wordmark.svg.png)
+ ![Sass](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/100px-Sass_Logo_Color.svg.png)
+ ![Bootstrap]( https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/100px-Bootstrap_logo.svg.png)
+ 
+ 
+ 
+ 
  
 
 <!---
