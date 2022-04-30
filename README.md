@@ -2,7 +2,9 @@
 - 👀 I’m interested in JavaScript, React JS, React Native and Node JS
 - I'm studing at Piri Reis University as a top student of the departmant Which is Management Information System
 - 📫 How to reach me ...
-   - @seyyidmcelik@gmail.com
+   - ![mail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/20px-Gmail_icon_%282020%29.svg.png) [seyyidmcelik](seyyidmcelik@gmail.com)
+   - ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png) [seyyidmcelik](https://www.linkedin.com/in/seyyidmcelik/)
+ 
  
  ![Nodejs](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/130px-Node.js_logo.svg.png)
  ![React JS](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/100px-React.svg.png)
