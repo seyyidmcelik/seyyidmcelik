@@ -12,7 +12,7 @@
  ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png)
  ![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/71px-CSS3_logo_and_wordmark.svg.png)
  ![Sass](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/100px-Sass_Logo_Color.svg.png)
- ![Bootstrap]( https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/100px-Bootstrap_logo.svg.png)
+ ![Bootstrap](https://miro.medium.com/max/200/1*Smbj_VLH7JRp9GhLaKyiUQ.png)
  
  
  
