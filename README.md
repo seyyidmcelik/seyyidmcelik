@@ -1,7 +1,7 @@
 # Hi, I'm Seyyid 👋
 
-* :eyes: I'm interested in JavaScript, React JS, React Nativa and Node JS
-* I'm studying at Piri Reis University in the department of Management Information System which I entered as a top student
+* :eyes: I'm interested in JavaScript, React JS, React Native, and Node JS
+* I'm studying at Piri Reis University in the Department of Management Information Systems which I entered as a top student
 * :mailbox: How to reach me ...
   - ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/20px-Gmail_icon_%282020%29.svg.png) [seyyidmcelik](mailto:seyyidmcelik@gmail.com)
   - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/25px-Linkedin_icon.svg.png) [seyyidmcelik](https://www.linkedin.com/in/seyyidmcelik/)
