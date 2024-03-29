@@ -7,13 +7,13 @@
   - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/25px-Linkedin_icon.svg.png) [seyyidmcelik](https://www.linkedin.com/in/seyyidmcelik/)
 
 # Tools
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/150px-Node.js_logo.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/120px-React.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/100px-Unofficial_JavaScript_logo_2.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/71px-CSS3_logo_and_wordmark.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/120px-Sass_Logo_Color.svg.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_material_design.svg/110px-Logo_material_design.svg.png)
+<span align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/javascript_photos/angular.png" height="100" alt="Angular Logo"></span>
+<span align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/javascript_photos/react.png" height="100" alt="React Logo"></span>
+<span align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/javascript_photos/nodejs.jpg" height="100" alt="Node.js Logo"></span>
+<span align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/javascript_photos/JavaScript.png" height="100" alt="Javascript Logo"></span>
+<span align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/javascript_photos/sass.png" height="100" alt="SASS Logo"></span>
+<span align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/javascript_photos/css.png" height="100" alt="CSS Logo"></span>
+<span align="center"><img src="https://github.com/seyyidmcelik/photos/blob/main/javascript_photos/html.png" height="100" alt="HTML Logo"></span>
 
 <!--
 ![Tux, the Linux mascot](https://marka-logo.com/wp-content/uploads/2020/04/Linkedin-Logo.png)
